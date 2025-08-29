@@ -12,7 +12,10 @@ Please refer to [PiCar-V](https://docs.sunfounder.com/projects/picar-v/en/latest
 
 Show Case
 =========
+Please see the following YouTube video for showcases.
+
 **Case 1: Standard Lane**
+[![IMAGE ALT TEXT HERE](video image link)](video link)
 
 **Case 2: Waved Lane**
 
