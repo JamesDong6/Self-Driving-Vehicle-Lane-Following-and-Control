@@ -15,13 +15,13 @@ Show Case
 Please see the following YouTube video for showcases.
 
 **Case 1: Standard Lane**
-https://youtu.be/KIdKFIRqkQs
-https://img.youtube.com/vi/KIdKFIRqkQs/maxresdefault.jpg
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KIdKFIRqkQs/maxresdefault.jpg)(https://youtu.be/KIdKFIRqkQs)
+
 
 **Case 2: Waved Lane**
-https://youtu.be/LIczsSjql3Q
-https://img.youtube.com/vi/LIczsSjql3Q/maxresdefault.jpg
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LIczsSjql3Q/maxresdefault.jpg)(https://youtu.be/LIczsSjql3Q)
+
 
 **Case 3: 8 shape**
-https://youtu.be/Te-lCobokGo
-https://img.youtube.com/vi/Te-lCobokGo/maxresdefault.jpg
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Te-lCobokGo/maxresdefault.jpg)(https://youtu.be/Te-lCobokGo)
+
